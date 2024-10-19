@@ -1,7 +1,3 @@
-Here's a polished and structured `README.md` for your project.
-
----
-
 # Secret Santa Game
 
 ## Project Description
@@ -18,7 +14,7 @@ This project automates the assignment of Secret Santa pairs for a company event,
 1. **Clone the Repository:**
    - If you have access to the Git repository, use:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/jawaharmuthukumaran/secret-santa-game.git
      cd secret_santa_game
      ```
 
@@ -82,31 +78,3 @@ The project is designed to be easily extendable:
    - The code is modular, allowing for easy updates, additions, or modifications to the assignment logic.
 3. **Custom Output Formats:**
    - You can modify the output CSV structure to include additional fields or generate other formats (e.g., JSON).
-
-## Version Control
-
-Use Git for version control:
-
-1. **Initialize a Git repository (if not already done):**
-
-   ```bash
-   git init
-   ```
-
-2. **Add changes to the repository:**
-
-   ```bash
-   git add .
-   ```
-
-3. **Commit changes:**
-
-   ```bash
-   git commit -m "Add Secret Santa assignment logic"
-   ```
-
-4. **Push to remote repository:**
-   ```bash
-   git remote add origin <repository-url>
-   git push -u origin main
-   ```
